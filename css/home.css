@@ -707,7 +707,7 @@
   justify-content: center;
 }
 
-.spec_product_frame .selling_product_frame .container {
+.spec_product_frame .container {
   flex-direction: column;
 }
 
