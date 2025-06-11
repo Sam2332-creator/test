@@ -283,7 +283,7 @@ p {
   color: #fff;
 }
 
-.navbar_frame .router_menu a .active {
+.navbar_frame .router_menu .active {
   color: #f5c34b;
 }
 
@@ -409,7 +409,7 @@ p {
   flex-direction: column;
 }
 
-.footer_frame .footer_contact_main .media_box {
+.footer_frame .footer_media_main .media_box {
   display: flex;
   flex-direction: row;
 }

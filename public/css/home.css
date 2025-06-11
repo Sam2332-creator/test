@@ -95,7 +95,7 @@
   background: #112137;
   border-radius: 50%;
 }
-/* pagination */
+/* pagination end*/
 
 .container .next_prev_box {
   width: 25px;
@@ -837,6 +837,7 @@
   right: 30px;
   top: 40px;
 }
+/* tv frame */
 
 .home_page .tv_frame {
   position: relative;
